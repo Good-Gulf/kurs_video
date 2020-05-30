@@ -1,5 +1,3 @@
  zmiana z pliku
 
  bardzo brzydki komentarz
-
- dodanie nowej experymentalnej funkcji
